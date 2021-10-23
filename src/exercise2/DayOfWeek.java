@@ -15,15 +15,16 @@ public class DayOfWeek {
       System.out.println ("Wednesday");
     } else if (number == 4) {
     System.out.println ("Thursday");
-  }
-  else if  (number == 5) {
+  
+ } else if  (number == 5) {
     System.out.println ("Friday");
   } else if (number == 6) {
   System.out.println ("Saturday"); 
-}
-else if  (number == 7) {
+
+} else if  (number == 7) {
   System.out.println ("Sunday");
-} else {
+} 
+else {
   System.out.println ("Invalid day");
 }
 }
