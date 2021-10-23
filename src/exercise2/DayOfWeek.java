@@ -2,7 +2,7 @@ package exercise2;
 
 import java.util.Scanner;
 
-public class DayOfWeek{
+public class DayOfWeek {
 
 
   public static void main(String[] args) {
@@ -33,7 +33,7 @@ public class DayOfWeek{
     System.out.println("Day of week: Sunday");
     break;
     default:
-    Sytem.out.println("Day of week: Invalid day");
+    System.out.println("Day of week: Invalid day");
     break;
     }
     input.close();
